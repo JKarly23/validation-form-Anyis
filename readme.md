@@ -28,7 +28,7 @@ Este proyecto implementa un sistema de validación de formularios en **JavaScrip
 ## Instalación y uso
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/JKarly23/PW-ValidationForm.git
+   git clone https://github.com/JKarly23/validation-form-Anyis.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 3. Prueba las validaciones ingresando datos incorrectos y observando los mensajes de error.
